@@ -189,10 +189,16 @@ hr {
 .contact-btn{
     padding-bottom: 27px;
 }
+.main-img{
+    width: 100%;
+}
 
   @media screen and (min-width: 480px) {
     .project-section{
         display: flex;
      margin-left: 372px;
+    }
+    .main-img{
+        width: 50%;
     }
   }
